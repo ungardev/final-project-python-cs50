@@ -1,7 +1,6 @@
 # CLI To-Do
     #### Video Demo:  <https://youtu.be/7ArvvR9gTZk>
     #### Description: A CLI To-Do tasks built in Python
-    TODO
 
 # CLI To‑Do ✅
 
