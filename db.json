@@ -1,0 +1,20 @@
+{
+  "next_id": 4,
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Review Project",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "Read CS50P Notes",
+      "done": false
+    },
+    {
+      "id": 3,
+      "title": "Update JSON Schema",
+      "done": false
+    }
+  ]
+}

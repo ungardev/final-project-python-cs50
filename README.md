@@ -1,3 +1,8 @@
+# YOUR PROJECT TITLE
+    #### Video Demo:  <https://youtu.be/7ArvvR9gTZk>
+    #### Description: A CLI To-Do Program built in Python
+    TODO
+
 # CLI To‑Do ✅
 
 A command‑line task manager built in Python, designed with software engineering best practices, defensive validation, and atomic JSON persistence. Developed as the final project for CS50P – Introduction to Programming with Python.
